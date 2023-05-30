@@ -54,14 +54,14 @@ Here are some ideas to get you started:
 <hr/>
 <h3>Some of the Repositories</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruchi961&repo=NLP_MiniProject)](https://github.com/ruchi961/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruchi961&repo=Plagiarism_Checker_Project)](https://github.com/ruchi961/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruchi961&repo=Tridoku_In_Python)](https://github.com/ruchi961/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruchi961&repo=Block_And_Blockchain_Implementation_Python)](https://github.com/ruchi961/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruchi961&repo=PageRank_Implementation_Python)](https://github.com/ruchi961/github-readme-stats)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ruchi961&repo=NLP_MiniProject)](https://github.com/ruchi961/github-readme-stats)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ruchi961&repo=Plagiarism_Checker_Project)](https://github.com/ruchi961/github-readme-stats)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ruchi961&repo=Tridoku_In_Python)](https://github.com/ruchi961/github-readme-stats)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ruchi961&repo=Block_And_Blockchain_Implementation_Python)](https://github.com/ruchi961/github-readme-stats)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ruchi961&repo=PageRank_Implementation_Python)](https://github.com/ruchi961/github-readme-stats)
 <hr/>
 
 
+<!--![](https://komarev.com/ghpvc/?username=ruchi961&label=PROFILE+VIEWS)-->
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchi961&layout=donut-vertical)](https://github.com/ruchi961/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruchi961&layout=donut-vertical)](https://github.com/ruchi961/github-readme-stats)
