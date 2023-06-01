@@ -62,6 +62,6 @@ Here are some ideas to get you started:
 <hr/>
 
 
-<!--![](https://komarev.com/ghpvc/?username=ruchi961&label=PROFILE+VIEWS)-->
+![](https://komarev.com/ghpvc/?username=ruchi961&label=PROFILE+VIEWS)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruchi961&layout=donut-vertical)](https://github.com/ruchi961/github-readme-stats)
