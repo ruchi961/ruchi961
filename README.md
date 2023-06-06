@@ -55,13 +55,19 @@ Here are some ideas to get you started:
 <h3>Some of the Repositories</h3>
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ruchi961&repo=NLP_MiniProject)](https://github.com/ruchi961/NLP_MiniProject)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ruchi961&repo=Plagiarism_Checker_Project)](https://github.com/ruchi961/github-readme-stats)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ruchi961&repo=Tridoku_In_Python)](https://github.com/ruchi961/github-readme-stats)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ruchi961&repo=Block_And_Blockchain_Implementation_Python)](https://github.com/ruchi961/github-readme-stats)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ruchi961&repo=PageRank_Implementation_Python)](https://github.com/ruchi961/github-readme-stats)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ruchi961&repo=Plagiarism_Checker_Project)](https://github.com/ruchi961/Plagiarism_Checker_Project)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ruchi961&repo=Tridoku_In_Python)](https://github.com/ruchi961/Tridoku_In_Python)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ruchi961&repo=Block_And_Blockchain_Implementation_Python)](https://github.com/ruchi961/Block_And_Blockchain_Implementation_Python)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ruchi961&repo=PageRank_Implementation_Python)](https://github.com/ruchi961/PageRank_Implementation_Python)
 <hr/>
 
 
-![](https://komarev.com/ghpvc/?username=ruchi961&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=ruchi961&label=PROFILE+VIEWS) 
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruchi961&layout=donut-vertical)](https://github.com/ruchi961/github-readme-stats)
+
+
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> 
+
+https://medium.com/@ruchi961 
+
