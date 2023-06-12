@@ -66,16 +66,35 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruchi961&layout=donut-vertical)](https://github.com/ruchi961/github-readme-stats)
 
-<display>
-  <summary>List of repositories</summary>
+<details><summary>List of repositories</summary>
 
-  <code>
-  <a href="https://github.com/ruchi961/ScrapperPython_InvoiceTable">ScrapperPython_InvoiceTable</a>
-  </code>
-</display>
+*   <a href="https://github.com/ruchi961/ScrapperPython_InvoiceTable">ScrapperPython_InvoiceTable</a>
+*   <a href="https://github.com/ruchi961/Operating-System-Scheduling-Algorithms-Python">Operating-System-Scheduling-Algorithms-Python</a>
+*   <a href="https://github.com/ruchi961/Menu_HashAlgorithms">Menu_HashAlgorithms</a>
+*   <a href="https://github.com/ruchi961/TicTacToe">TicTacToe</a>
+*   <a href="https://github.com/ruchi961/PageReplacement-Algorithms-OS-Python">PageReplacement-Algorithms-OS-Python</a>
+*   <a href="https://github.com/ruchi961/NLP_MiniProject">NLP_MiniProject</a>
+*   <a href="https://github.com/ruchi961/UML-Diagrams-Dance-class-management">UML-Diagrams-Dance-class-management</a>
+*   <a href="https://github.com/ruchi961/Tkinter-Programs">Tkinter-Programs</a>
+*   <a href="https://github.com/ruchi961/Tridoku_In_Python">Tridoku_In_Python</a>
+*   <a href="https://github.com/ruchi961/Fibonacci_JAR_Implementation">Fibonacci_JAR_Implementation</a>
+*   <a href="https://github.com/ruchi961/EthereumSolidityBasicPrograms">EthereumSolidityBasicPrograms</a>
+*   <a href="https://github.com/ruchi961/Memorizer-Game">Memorizer-Game</a>
+*   <a href="https://github.com/ruchi961/HiringProblem_Algorithm">HiringProblem_Algorithm</a>
+*   <a href="https://github.com/ruchi961/Block_And_Blockchain_Implementation_Python">Block_And_Blockchain_Implementation_Python</a>
+*   <a href="https://github.com/ruchi961/Algorithms">Algorithms</a>
+*   <a href="https://github.com/ruchi961/login-Page-Dotnet">login-Page-Dotnet</a>
+*   <a href="https://github.com/ruchi961/Crossword-Print-Dynamic-C-Lang-Mini-Project">Crossword-Print-Dynamic-C-Lang-Mini-Project</a>
+*   <a href="https://github.com/ruchi961/WebServices_JavaNetbeans">WebServices_JavaNetbeans</a>
+*   <a href="https://github.com/ruchi961/JavaGUI_StudeDetails">JavaGUI_StudeDetails</a>
+*   <a href="https://github.com/ruchi961/JavaSwing_SalonAppointmentApplication">JavaSwing_SalonAppointmentApplication</a>
+*   <a href="https://github.com/ruchi961/Enterprise_Integration_Shipment_Invoice_APIs">Enterprise_Integration_Shipment_Invoice_APIs</a>
+*   <a href="https://github.com/ruchi961/Plagiarism_Checker_Project">Plagiarism_Checker_Project</a>
+*   <a href="https://github.com/ruchi961/ComplexNumberOperationsInPython">ComplexNumberOperationsInPython</a>
+*   <a href="https://github.com/ruchi961/DashBoard_R">DashBoard_R</a>
+</details>
 
-
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> 
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 https://medium.com/@ruchi961 
 
