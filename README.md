@@ -66,6 +66,14 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruchi961&layout=donut-vertical)](https://github.com/ruchi961/github-readme-stats)
 
+<display>
+  <summary>List of repositories</summary>
+
+  <code>
+  <a href="https://github.com/ruchi961/ScrapperPython_InvoiceTable">ScrapperPython_InvoiceTable</a>
+  </code>
+</display>
+
 
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> 
 
