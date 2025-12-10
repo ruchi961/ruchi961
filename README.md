@@ -46,19 +46,33 @@ I love building clean, efficient and problem solver projects, find my work, at <
 
 ## 🚀 Few Projects I’ve Worked On
 
+### 🔹 Computer vision for handwriting analysis 
+
+implemented novel ocr techniques for Handwriting analysis on real world data of images. 
+
+### 🔹 Recipe Generator
+
+Finetuined gpt-2 for generatoring recipes from available ingredients, Created full stack developement for the same. 
+
+### 🔹 DataFormer
+
+Co created dataformer python libraray for Synthetic data generation accros all platforms like OpenAI, ANthropic, Together APIs, etc 
+
+### 🔹 Genetic Algorithms 
+
+Implemented genetic algorithms to find a matching string
+
+### 🔹 Ant Colony Optimization
+
+Implemented ant colony optimization 
+
+### 🔹 NLP Association Minning
+
+Performed two projects on association minning, one with a good dataset and one with optimization aprioir for faster implementation and research comparison with current methods 
+
 ### 🔹 Page Replacement Algorithms (OS)
 
 Simulation of FIFO, LRU, Optimal, and other OS page replacement strategies in Python.
-
-### 🔹 NLP Mini-Project
-
-Tokenization, stemming, lemmatization, and sentiment classification using Python NLP tools.
-
-### 🔹 Tkinter Applications
-
-Small GUI tools built with Tkinter (calculators, converters, automation utilities).
-
-> Want me to generate *better READMEs* for these projects? I can.
 
 ---
 
