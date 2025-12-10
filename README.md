@@ -64,7 +64,7 @@ Small GUI tools built with Tkinter (calculators, converters, automation utilitie
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruchi961\&show_icons=true\&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ruchi961&theme=dark)](https://git.io/streak-stats)
 
 ---
 
@@ -127,11 +127,4 @@ Small GUI tools built with Tkinter (calculators, converters, automation utilitie
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruchi961&layout=donut-vertical)](https://github.com/ruchi961/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ruchi961&theme=dark)](https://git.io/streak-stats)
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruchi961)](https://github.com/anuraghazra/github-readme-stats)-->
-
-
-<hr/>
-![](https://komarev.com/ghpvc/?username=ruchi961&label=PROFILE+VIEWS) 
 
